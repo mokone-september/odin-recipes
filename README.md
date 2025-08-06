@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a [brief description of the app or tool you're building — e.g., "job application tracker", "weather dashboard", "e-commerce site", etc.], developed as part of my ongoing journey in software development. It serves both as a practical implementation of modern development tools and a platform to enhance and demonstrate my technical and problem-solving skills.
+This project is a Odin Project, developed as part of my ongoing journey in software development. It serves both as a practical implementation of modern development tools and a platform to enhance and demonstrate my technical and problem-solving skills.
 
 The application includes core functionalities such as [list main features — e.g., CRUD operations, responsive design, authentication, API integration, etc.], and focuses on delivering a seamless and accessible user experience.
 
