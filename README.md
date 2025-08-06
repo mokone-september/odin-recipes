@@ -6,7 +6,7 @@ This project is part of **The Odin Project** curriculum and focuses on building 
 
 ### Project Description
 
-A portfolio site showcasing my skills, projects, and contact information.
+A portfolio site showcasing my skills and projects.
 
 The goal of this project is to solidify my understanding of:
 
